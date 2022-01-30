@@ -1,16 +1,31 @@
 # world_time_app
 
-A new Flutter project.
+Hey there,
+This is the world time zone app, it helps the users to see the time in different countries.
 
-## Getting Started
+What did I use to build this application? 
 
-This project is a starting point for a Flutter application.
+I used Flutter in making this project and I integrated the timezone API using this website which provided for me the timezoneAPI (https://app.abstractapi.com/api)
+(You can use android studio or visual Studio code IDE I personally
+used android studio)
 
-A few resources to get you started if this is your first Flutter project:
+Description of the app:
+I used 4 pages:
+=>You will find them in the lib folder
+*main.dart 
+*home.dart
+*loading.dart
+*choose_location.dart 
+I used 2 packages:
+*services that contains the world time class(in the lib folder)
+*assets that contains all the pics on the app
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In This project I used stateful widgets, asynchronous functions, I integrated an
+API, I applied the routing and mapping between the different pages.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Finally, If you are a beginner in flutter I highly recommend for you this
+amazing Youtube channel (The Net Ninja) which helped me to learn flutter and build this app.
+Youtube channel link:
+https://youtu.be/1ukSR1GRtMU
+
+Thank you.
