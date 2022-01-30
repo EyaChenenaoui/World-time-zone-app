@@ -18,12 +18,12 @@ I used 4 pages:
 *choose_location.dart 
 I used 2 packages:
 *services that contains the world time class(in the lib folder)
+
 *assets that contains all the pics on the app
 
 >In This project I used stateful widgets, asynchronous functions, I integrated an
 API, I applied the routing and mapping between the different pages.
-
-![This is an image](C:\Users\chene\OneDrive\Images\Capture d’écran 2022-01-30 143128)
+![Capture d’écran 2022-01-30 143128](https://user-images.githubusercontent.com/95254410/151702034-26a03429-357b-4eeb-8912-8eb433393d61.png)
 
 >Finally, If you are a beginner in flutter I highly recommend for you this
 amazing Youtube channel (The Net Ninja) which helped me to learn flutter and build this app.
