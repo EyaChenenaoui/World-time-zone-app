@@ -10,15 +10,15 @@ I used Flutter in making this project and I integrated the timezone API using th
 used android studio)
 
 # Description of the app:
-I used 4 pages:
-=>You will find them in the lib folder
-*main.dart 
-*home.dart
-*loading.dart
-*choose_location.dart 
-I used 2 packages:
-*services that contains the world time class(in the lib folder)
-*assets that contains all the pics on the app
+I used 4 pages:<br/>
+=>You will find them in the lib folder<br/>
+*main.dart <br/>
+*home.dart <br/>
+*loading.dart <br/>
+*choose_location.dart <br/>
+I used 2 packages:<br/>
+*services that contains the world time class(in the lib folder) <br/>
+*assets that contains all the pics on the app <br/>
 ##### This image shows you the time in tunisia and because it's midnight it shows you a sunny pic
 
 ![Capture d’écran 2022-01-30 143128](https://user-images.githubusercontent.com/95254410/151702034-26a03429-357b-4eeb-8912-8eb433393d61.png)
@@ -30,9 +30,9 @@ I used 2 packages:
 ![Capture d’écran 2022-01-30 143218](https://user-images.githubusercontent.com/95254410/151702202-777f8a47-f574-4b8b-95b5-937390cd8ed2.png)
 
 > In This project I used stateful widgets, asynchronous functions, I integrated an
-API, I applied the routing and mapping between the different pages.
+API, I applied the routing and mapping between the different pages. <br/>
 > Finally, If you are a beginner in flutter I highly recommend for you this
-amazing Youtube channel (The Net Ninja) which helped me to learn flutter and build this app.
+amazing Youtube channel (The Net Ninja) which helped me to learn flutter and build this app. <br/>
 
 ### Youtube channel link:
 https://youtu.be/1ukSR1GRtMU
