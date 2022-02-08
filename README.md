@@ -31,10 +31,5 @@ Assets that contains all the pics on the app <br/>
 
 > In This project I used stateful widgets, asynchronous functions, I integrated an
 API, I applied the routing and mapping between the different pages. <br/>
-> Finally, If you are a beginner in flutter I highly recommend for you this
-amazing Youtube channel (The Net Ninja) which helped me to learn flutter and build this app. <br/>
-
-### Youtube channel link:
-https://youtu.be/1ukSR1GRtMU
 
 # Thank you.
