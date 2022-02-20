@@ -5,7 +5,7 @@ This is the world time zone app, it helps the users to see the time in different
 
 # What did I use to build this application? 
 
-I used Flutter in making this project and I integrated the timezone API using this website which provided for me the timezoneAPI (https://app.abstractapi.com/api)
+I used Flutter in making this project and I integrated the timezone API using this website which will provide you the timezoneAPI (https://app.abstractapi.com/api)
 (You can use android studio or visual Studio code IDE I personally
 used android studio)
 
