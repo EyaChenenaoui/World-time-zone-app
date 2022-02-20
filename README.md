@@ -19,13 +19,13 @@ Choose_location.dart <br/>
 I used 2 packages:<br/>
 Services that contains the world time class(in the lib folder) <br/>
 Assets that contains all the pics on the app <br/>
-##### This image shows you the time in tunisia and because it's afternoon it shows you a sunny pic
+##### This image shows you the time in tunisia 
 
 ![Capture d’écran 2022-01-30 143128](https://user-images.githubusercontent.com/95254410/151702034-26a03429-357b-4eeb-8912-8eb433393d61.png)
 #### This page 'choose location' helps you to change the country
 
 ![Capture d’écran 2022-01-30 143150](https://user-images.githubusercontent.com/95254410/151702139-940f450a-c88d-4889-97dc-36c0793e43b6.png)
-##### This image shows you the time in Tokyo and because it's night it shows you a nighty pic
+##### This image shows you the time in Tokyo 
 
 ![Capture d’écran 2022-01-30 143218](https://user-images.githubusercontent.com/95254410/151702202-777f8a47-f574-4b8b-95b5-937390cd8ed2.png)
 
